@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { heroData } from "../data";
-
 import Header from "../components/Header";
 
 const Hero = () => {
