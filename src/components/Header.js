@@ -2,14 +2,11 @@ import React, { useState } from 'react';
 
 //import components
 import Logo from '../assets/img/logo.png';
-
 import Nav from './Nav';
-
 import NavMobile from './NavMobile';
 
 //import icons
 import { FaBars } from "react-icons/fa";
-
 import { BsArrowRight } from "react-icons/bs";
 
 const Header = () => {
